@@ -5,6 +5,7 @@
   <arg name="arm" default="gen3"/>
   <arg name="dof" default="7"/>
   <arg name="vision" default="true"/>
+  <arg name="use_hard_limits" default="false"/>
 
   <!-- Gripper configuration -->
   <arg name="gripper" default=""/>
